@@ -28,7 +28,7 @@ Esta tabela segue o planejamento do professor. O **status** demonstra quais aula
 | Aula 02 - 11/08/2025 | **Regressão / Algoritmos de regressão / Metodologia de avaliação / Medidas de avaliação** | ✅ Finalizado | ✅ Finalizado |
 | Aula 03 - 18/08/2025 | **Tarefa de Classificação / Algoritmos de classificação / Medidas de avaliação** | ✅ Finalizado | 🔄 Em Progresso |
 | Aula 04 - 25/08/2025 | **Comitês / Tuning de hiperparâmetros / AutoML / Interpretabilidade** | ✅ Finalizado | 💡 Planejado |
-| Aula 05 - 01/09/2025 | **Redes neurais artificiais / Processamento de linguagem natural / Transformers** | 🔄 Em Progresso | 💡 Planejado |
+| Aula 05 - 01/09/2025 | **Redes neurais artificiais / Processamento de linguagem natural / Transformers** | ✅ Finalizado | 💡 Planejado |
 | Aula 06 - 08/09/2025 | **Aprendizado não supervisionado / Algoritmos de agrupamento / Validação** | 💡 Planejado | 💡 Planejado |
 
 ---
